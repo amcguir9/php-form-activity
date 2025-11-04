@@ -13,7 +13,7 @@
             button {margin-top: 0.75rem; }
         </style>
     </head>
-    <body>
+        <body>
         <div class="wrap">
             <h2> Join Our Service</h2>
             
@@ -35,4 +35,8 @@
             </form>
         </div>
     </body>
-</html>
+    <nav style="text-align:center; padding:10px; background:#eee;">
+    <a href="index.php">Home (Form)</a> | 
+    <a href="#">About</a> | 
+    <a href="#">Contact</a>
+</nav>
