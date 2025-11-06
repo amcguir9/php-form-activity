@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+    <nav style="text-align:center; padding:10px; background:#eee;">
+    <a href="index.php">Home (Form)</a> | 
+    <a href="about.php">About</a> | 
+    <a href="contact.php">Contact</a>
+    <a href="news.php">News</a>
+</nav>
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,8 +41,3 @@
             </form>
         </div>
     </body>
-    <nav style="text-align:center; padding:10px; background:#eee;">
-    <a href="index.php">Home (Form)</a> | 
-    <a href="#">About</a> | 
-    <a href="#">Contact</a>
-</nav>
